@@ -7,7 +7,7 @@ Develop a comprehensive e-commerce platform with CRUD operations, dynamic pricin
 
 ## Tech Stack
 - Backend: Python, Django
-- Database: SQLite (can be replaced with PostgreSQL)
+- Database: SQLite 
 - Frontend: HTML, CSS
 - Authentication: Django built-in User model
 - Sessions & Cookies: Django sessions
